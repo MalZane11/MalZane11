@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a UGA student currently learning to code with Java.
+
 <!--
 **MalZane11/MalZane11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
